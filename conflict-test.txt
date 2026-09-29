@@ -1,2 +1,2 @@
 GitHub Merge Conflict Activity
-This is the version from Branch 2.
+This is the final version from Resolution Branch.
