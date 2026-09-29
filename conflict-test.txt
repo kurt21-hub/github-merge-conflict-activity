@@ -1,0 +1,2 @@
+GitHub Merge Conflict Activity
+This is the version from Branch 2.
